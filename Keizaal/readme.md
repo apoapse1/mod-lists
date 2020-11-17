@@ -1,6 +1,6 @@
 # THIS PAGE IS UNDER CONSTRUCTION
 
-## What is Keizaal?
+# What is Keizaal?
 
 A few criteria for the mods on this list:
 
